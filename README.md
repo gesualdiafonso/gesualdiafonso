@@ -26,7 +26,7 @@
 
 ## 🚀 Technology
 
-<div align="center">
+<div align="center" style="display: flex; justify-content:space-between;">
 
   <!-- 🌐 Front-End -->
   <h3>🌐 Front-End</h3>
