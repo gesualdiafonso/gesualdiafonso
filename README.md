@@ -26,8 +26,10 @@
 
 ## 🚀 Technology
 
-<div align="center" display="inline">
-  <!-- Front-End -->
+<div align="center">
+
+  <!-- 🌐 Front-End -->
+  <h3>🌐 Front-End</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
@@ -41,8 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
-  
-  <!-- Back-End -->
+
+  <br/><br/>
+
+  <!-- ⚙️ Back-End -->
+  <h3>⚙️ Back-End</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="Nest.js" />
@@ -52,15 +57,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 
-  <!-- Databases & Cloud -->
+  <br/><br/>
+
+  <!-- 🛢️ Databases & Cloud -->
+  <h3>🛢️ Databases & Cloud</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" height="40" alt="Supabase" />
 
-  <!-- Hardware & IoT -->
+  <br/><br/>
+
+  <!-- 🔌 Hardware & IoT -->
+  <h3>🔌 Hardware & IoT</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
   <img src="https://img.icons8.com/ios-filled/50/00ccff/microchip.png" height="40" alt="ESP32" />
+
 </div>
 
 ---
